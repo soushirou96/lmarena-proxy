@@ -1296,7 +1296,7 @@
         try {
             const scripts = document.querySelectorAll('script');
             let modelData = null;
-            const searchString = 'self.__next_f.push([1,"4:';
+            const searchString = CONFIG.MODEL_REGISTRY.SEARCH_STRING;
 
             for (const script of scripts) {
                 const content = script.textContent || script.innerHTML;
