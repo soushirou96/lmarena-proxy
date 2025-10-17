@@ -66,6 +66,8 @@
 
 ## 🚀 快速开始
 
+> 📖 **macOS 用户**: 请查看 [macOS 详细安装指南](./SETUP_MACOS.md) 获取完整的安装和配置步骤。
+
 ### 1. 克隆项目
 ```bash
 git clone https://github.com/zhongruichen/lmarena-proxy.git
